@@ -1,5 +1,8 @@
 # OpenChoreo
 
+<img width="1667" height="713" alt="image" src="https://github.com/user-attachments/assets/a601b612-841d-43e9-8499-9f69b57e3cc0" />
+
+
 ## What it is
 
 OpenChoreo is an open-source internal developer platform (IDP) for
