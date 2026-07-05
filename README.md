@@ -63,25 +63,6 @@ These can all run in a single cluster with namespace isolation (common for
 local development and evaluation), or be split across dedicated clusters
 for production, including across regions.
 
-## Authentication
-
-OpenChoreo integrates with any OAuth2/OIDC-compatible identity provider.
-By default it ships with WSO2 Thunder, an open-source identity server, to
-make local evaluation straightforward. Authentication is consistent across
-every surface - UI, CLI, API, and MCP - since they all go through the same
-identity provider and the same authorization engine.
-
-## Local evaluation
-
-OpenChoreo provides a quick-start setup that runs a full instance locally
-using Docker and a k3d (k3s-in-Docker) cluster, giving a working platform -
-including identity, CI/CD, observability, and a developer portal - in
-under 15 minutes without needing any cloud infrastructure.
-
-## Installation (local quick-start)
-
-These are the steps used to get a local OpenChoreo instance running and
-reachable, along with the environment fixes required on Windows.
 
 ### Requirements
 
